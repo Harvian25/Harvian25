@@ -1,5 +1,5 @@
 <!-- Banner -->
-![Dark Banner](./Dark..jfif)
+![Dark Banner](./Dark.jfif)
 <!-- End of Banner -->
 <!-- About me -->
 <h2>Hey! 👋</h2>
