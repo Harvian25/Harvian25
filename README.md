@@ -53,7 +53,7 @@ __Check out my GitHub task repository:__
 
 <h2> About Harvian⚡:</h2>
 
-I'm a Student living in Karawang, I love to jogging in the morning, enjoy music and explore nature outdoors,,,
+I'm a Student living in Karawang, I love to jogging in the morning, enjoy music and playing game every game that i like, especially dark souls games, or zelda breath of the wild,,,
 
 
 
