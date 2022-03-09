@@ -12,11 +12,8 @@ __Check out my GitHub repository:__
 
 <div>
   <p>
-    <a href="https://github.com/Harvian25/PyCalendly">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harvian25&repo=PyCalendly" alt="GitHub Stats" />
-    </a>
-    <a href="https://github.com/Harvian25/CloudOrg-Simulator">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harvian25&repo=CloudOrg-Simulator" alt="GitHub Stats" />
+    <a href="git remote add origin httpshttps://github.com/Harvian25/Tugas-Praktik-PBW">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=Harvian25&repo=Tugas-Praktik-PBW" alt="GitHub Stats" />
     </a>
   </p>
 </div>
