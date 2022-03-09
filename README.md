@@ -42,6 +42,8 @@ I'm a Student living in Karawang, I love to jogging in the morning, enjoy music 
 <summary><b>📫 Reach me on</b></summary>
   
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harvian_a/)
+ [![Facebook](https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/harvian.arga.12/)
+ 
 </details>
 
 
