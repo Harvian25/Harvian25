@@ -30,6 +30,10 @@ __Check out my GitHub task repository:__
 
 <h2>👀 Stats</h2>
 
+ </details>
+<details>
+<summary><b>github sats</b></summary>
+
 <div>
   
   <p align="center">
@@ -42,6 +46,7 @@ __Check out my GitHub task repository:__
   <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=Harvian25&theme=react-light&bg_color=FFFFFF&color=000000"/>
 </a>
 </p>
+</details>
 
   </p>
 </div>
