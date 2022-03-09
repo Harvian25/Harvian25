@@ -6,7 +6,17 @@
 I'm Harvian Arga Adi Putra! 
 - <i>Currently:</i> Student college at University of Singaperbangsa at Karawang. 
 - <i>Previously:</i> student at private high school of Rosma at Karawang.
+ </details>
+<details>
+<summary><b>📫 Reach me on</b></summary>
+  
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harvian_a/)
+ [![Facebook](https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/harvian.arga.12/)
  
+</details>
+
+
+
 
 __Check out my GitHub task repository:__
 
@@ -40,8 +50,7 @@ __Check out my GitHub task repository:__
 
 I'm a Student living in Karawang, I love to jogging in the morning, enjoy music and explore nature outdoors,,,
 
-##### Library & Frameworks:
-  ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
 </details>
 <details>
 <summary><b>📫 Reach me on</b></summary>
