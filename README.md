@@ -26,6 +26,15 @@ __Check out my GitHub task repository:__
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harvian25" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
+<p align="left">
+<a href="https://github.com/Bintaaaa">
+  <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Bintaaaa&show_icons=true&theme=light&include_all_commits=true&count_private=true&icon_color=000000&bg_color=FFFFFF"/>
+  <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Bintaaaa&layout=compact&langs_count=10&theme=light&bg_color=FFFFFF"/>
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Bintaaaa&theme=light&fire=000000&ring=000000&currStreakLabel=000000"/>
+
+  <img width="99%" src="https://activity-graph.herokuapp.com/graph?username=Bintaaaa&theme=react-light&bg_color=FFFFFF&color=000000"/>
+</a>
+</p>
 
   </p>
 </div>
