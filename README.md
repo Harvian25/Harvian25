@@ -8,7 +8,7 @@ I'm Harvian Arga Adi Putra!
 - <i>Previously:</i> student at private high school of Rosma at Karawang.
  
 
-__Check out my GitHub repository:__
+__Check out my GitHub task repository:__
 
 <div>
   <p>
