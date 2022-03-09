@@ -1,4 +1,7 @@
-
+<!-- Banner -->
+![Dark Banner](./Dark..jfif)
+<!-- End of Banner -->
+<!-- About me -->
 <h2>Hey! 👋</h2>
 
 [![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Harvian25.Harvian25)](https://github.com/Harvian25) [![GitHub followers](https://img.shields.io/github/followers/Harvian25.svg?style=social&label=Follow)](https://github.com/Harvian25?tab=followers)
