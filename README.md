@@ -34,7 +34,7 @@ __Check out my GitHub task repository:__
   
   <p align="center">
 <p align="left">
-<a href="https://github.com/Bintaaaa">
+<a href="https://github.com/Harvian25">
   <img width="99%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=HArvian25&show_icons=true&theme=light&include_all_commits=true&count_private=true&icon_color=000000&bg_color=FFFFFF"/>
   <img width="38%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Harvian25&layout=compact&langs_count=10&theme=light&bg_color=FFFFFF"/>
   <img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Harvian25&theme=light&fire=000000&ring=000000&currStreakLabel=000000"/>
@@ -51,13 +51,6 @@ __Check out my GitHub task repository:__
 I'm a Student living in Karawang, I love to jogging in the morning, enjoy music and explore nature outdoors,,,
 
 
-</details>
-<details>
-<summary><b>📫 Reach me on</b></summary>
-  
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harvian_a/)
- [![Facebook](https://img.shields.io/badge/Facebook-E4405F?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/harvian.arga.12/)
- 
-</details>
+
 
 
