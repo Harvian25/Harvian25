@@ -26,12 +26,16 @@ __Check out my GitHub task repository:__
   <b><em>GitHub Stats:</em></b> <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harvian25" alt="GitHub Stats" /> <br/><br/>
   <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Harvian25" alt="WakaTime" />
+
   </p>
 </div>
 
 <h2> About Harvian⚡:</h2>
 
 I'm a Student living in Karawang, I love to jogging in the morning, enjoy music and explore nature outdoors,,,
- 
+<summary><b>📫 Reach me on</b></summary>
+  
+ [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/harvian_a/)
+</details>
+
 
